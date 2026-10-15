@@ -29,7 +29,7 @@ How to install FFmpeg on Windows:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/CptDiamond/EPUB_To_Audiobook
    cd epub-to-audiobook
    ```
 
