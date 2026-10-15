@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local environment folders
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Audio outputs (Don't commit massive MP3 books to code repositories)
+audiobook_mp3/
+*.mp3
