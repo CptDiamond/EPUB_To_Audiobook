@@ -10,6 +10,7 @@ An ultra-fast, asynchronous Python command-line utility that extracts chapters f
 ## 🚀 Prerequisites
 This project requires **FFmpeg** to handle the stitching and generation of MP3 files.
 - **Windows:** Download from [Gyan.dev](https://gyan.dev) and add its `/bin` directory to your System Environment Path.
+
 How to install FFmpeg on Windows:
 
 1. Download FFmpeg: Go to the Gyan.dev FFmpeg build page and download ffmpeg-git-full.7z (or the release essentials zip).
